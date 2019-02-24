@@ -1,5 +1,4 @@
 # Cypher Fun Stuff
-====================
 
 ### 1 Character Swap
 
